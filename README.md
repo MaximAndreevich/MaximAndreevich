@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximAndreevich
-- 👀 I’m interested in microservices based modern solutions that makas out everyday's life better.
-- 🌱 I’m currently learning Java,Spring, Pg, Mongo, Redis.
+- 👀 I’m interested in microservices based modern solutions that makas our everyday's life better.
+- 🌱 I’m currently learning Spring, JPA. Mstering JUnut. 
 - 💞️ I’m looking to collaborate on Enterprise European and US projects in Telecom, BigData, Cloud solutions.
 - 📫 How to reach me TG: @MaksimKidney
 
